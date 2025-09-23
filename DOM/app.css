@@ -1,0 +1,14 @@
+.Mainimg img{
+    height: 1000px;
+}
+
+p{
+    color: blue;
+    font-size: large;
+}
+
+.box{
+    background-color: cornflowerblue;font-style: italic;
+    color: brown;
+
+}

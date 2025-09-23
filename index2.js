@@ -42,9 +42,9 @@
 
 // IMPLICIT RETURN IN ARROW FUNCTION:- 
 
-const mul = (a,b) => (
-    a*b
-);
- mul(2,5);
+// const mul = (a,b) => (
+//     a*b
+// );
+//  mul(2,5);
 
  
