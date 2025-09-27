@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+}
+h3{
+    margin-top: 40px;
+    text-decoration: solid;
+}
+
+
+
+div{
+    height: 100px;
+    width: 250px;
+    border: 1px solid black;
+    margin: auto;
+}
