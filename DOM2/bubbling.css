@@ -1,0 +1,15 @@
+div{
+    height: 200px;
+    width: 500px;
+    background-color: pink;
+}
+
+ul{
+    background-color: blue;
+    height: auto;
+}
+li{
+    background-color: greenyellow;
+    height: auto;
+    width: auto;
+}
