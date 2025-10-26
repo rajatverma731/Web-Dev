@@ -24,3 +24,4 @@ async function getFacts() {
     console.log(res);
 
 }
+
